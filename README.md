@@ -1,1 +1,1 @@
-# nodered_weather_station
+# nodered-weather-station
