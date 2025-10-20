@@ -17,6 +17,3 @@
 <p align="center">
   <img src="screenshots/Tasmota/WebUIstartpage.png" width="35%">
 </p>
-
-Tasmota WebUI -> Configuration -> Other parameters
-{"NAME":"WeatherStation","GPIO":[1,1,1,1,640,608,1,1,0,1,1312,1,1,4704],"FLAG":0,"BASE":18}
