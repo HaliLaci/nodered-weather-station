@@ -15,5 +15,5 @@
 
 ### Tasmota WebUI:
 <p align="center">
-  <img src="screenshots/Tasmota/WebUIstartpage.png" width="55%">
+  <img src="screenshots/Tasmota/WebUIstartpage.png" width="35%">
 </p>
