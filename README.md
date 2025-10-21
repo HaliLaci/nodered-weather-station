@@ -40,18 +40,18 @@ A rendszer megjeleníti az érzékelők adatait – például hőmérséklet, p�
 
 ### 📅 Fejlesztési ütemterv
 
-	1. Alap rendszer és érzékelők *(folyamatban)*  
-	A **Wemos D1** Tasmota firmware-rel működik, hőmérséklet-érzékelők csatlakoztatva.  
-	Következő lépés: **Raspberry Pi** telepítése **Node-RED** és MQTT brokerrel az adatok megjelenítéséhez.
+	1. Alap rendszer és érzékelők (folyamatban)
+	A Wemos D1 Tasmota firmware-rel működik, hőmérséklet-érzékelők csatlakoztatva.  
+	Következő lépés: Raspberry Pi telepítése Node-RED és MQTT brokerrel az adatok megjelenítéséhez.
 
-	2. Kültéri tesztelés *(tervezett)*  
+	2. Kültéri tesztelés (tervezett)  
 	A szerkezet kihelyezése a szabadba teszteléshez.  
 	A szenzorok működésének, Wi-Fi jelnek és adatküldésnek ellenőrzése.
 
-	3. Mérőház és telepítés *(tervezett)*  
+	3. Mérőház és telepítés (tervezett)
 	Időjárásálló **mérőház építése, érzékelők (talajhőmérséklet, talajnedvesség) telepítése.
 
-	4. Napelemes tápellátás *(tervezett)*  
+	4. Napelemes tápellátás (tervezett)
 	**Napelemes és akkumulátoros** energiaellátás a teljesen önálló működéshez.
 
 
