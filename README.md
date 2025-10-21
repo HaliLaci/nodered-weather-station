@@ -48,7 +48,7 @@ A rendszer megjeleníti az érzékelők adatait – például hőmérséklet, p�
 	A szenzorok működésének, Wi-Fi jelnek és adatküldésnek ellenőrzése.
 
 	3. Mérőház és telepítés (tervezett)
-	Időjárásálló **mérőház építése, érzékelők (talajhőmérséklet, talajnedvesség) telepítése.
+	Időjárásálló mérőház építése, érzékelők (talajhőmérséklet, talajnedvesség) telepítése.
 
 	4. Napelemes tápellátás (tervezett)
 	Napelemes és akkumulátoros energiaellátás a teljesen önálló működéshez.
