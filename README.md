@@ -3,7 +3,7 @@
 ## English Version
 
 This project provides a compact weather monitoring system built with a Wemos D1 board running Tasmota firmware, communicating via MQTT to a Node-RED server.
-The collected sensor data — such as temperature, humidity, pressure, and optionally soil temperature or moisture — is visualized on a Node-RED dashboard.
+Sensor data is sent as MQTT messages to a Node-RED system running on a Raspberry Pi, where it is processed and visualized.
 
 ### ✨ Features
 	•	Wireless weather station based on Wemos D1 (ESP8266)
@@ -22,7 +22,7 @@ The collected sensor data — such as temperature, humidity, pressure, and optio
 ## Magyar verzió
 
 Ez a projekt egy kompakt időjárás-állomás, amely Wemos D1 (ESP8266) alapú mikrokontrollerrel és Tasmota firmware-rel működik, az adatokat MQTT kapcsolaton keresztül továbbítja egy Node-RED szerverre.
-A rendszer megjeleníti az érzékelők adatait – például hőmérséklet, páratartalom, légnyomás, valamint opcionálisan talajhőmérséklet vagy talajnedvesség – egy Node-RED dashboardon.
+Az érzékelők adatai MQTT üzenetként kerülnek továbbításra a Raspberry Pi-n futó Node-RED rendszerre, ahol feldolgozásra és megjelenítésre kerülnek.
 
 ### ✨ Főbb jellemzők
 	•	Vezeték nélküli időjárás-állomás Wemos D1 (ESP8266) alapokon
