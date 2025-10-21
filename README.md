@@ -17,8 +17,7 @@ The collected sensor data — such as temperature, humidity, pressure, and optio
 	•	MQTT for communication
 	•	Node-RED for data processing and dashboard visualization
 	•	Raspberry Pi as the central server (optional)
-
-⸻
+-------
 
 ### Magyar verzió
 
@@ -53,9 +52,9 @@ A rendszer megjeleníti az érzékelők adatait – például hőmérséklet, p�
 
 	4. Napelemes tápellátás (tervezett)
 	Napelemes és akkumulátoros energiaellátás a teljesen önálló működéshez.
+---------
 
-
-### Wemos d1 (pro) PINs:
+## Wemos d1 (pro) PINs:
 
 - GPIO04 - D2 SDA - BME280
 - GPIO05 - D1 SCL - BME280
@@ -66,7 +65,7 @@ A rendszer megjeleníti az érzékelők adatait – például hőmérséklet, p�
   <img src="screenshots/wemosd1/WeatherStationCircuit.jpg" width="45%">
 </p>
 
-### Tasmota WebUI:
+## Tasmota WebUI:
 <p align="center">
   <img src="screenshots/Tasmota/WebUIstartpage.png" width="35%">
 </p>
