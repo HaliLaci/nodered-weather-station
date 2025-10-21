@@ -52,7 +52,7 @@ A rendszer megjeleníti az érzékelők adatait – például hőmérséklet, p�
 	Időjárásálló **mérőház építése, érzékelők (talajhőmérséklet, talajnedvesség) telepítése.
 
 	4. Napelemes tápellátás (tervezett)
-	**Napelemes és akkumulátoros** energiaellátás a teljesen önálló működéshez.
+	Napelemes és akkumulátoros energiaellátás a teljesen önálló működéshez.
 
 
 ### Wemos d1 (pro) PINs:
