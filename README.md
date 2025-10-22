@@ -67,5 +67,5 @@ Az érzékelők adatai MQTT üzenetként kerülnek továbbításra a Raspberry P
 
 ### Tasmota WebUI and Tasmotrol App UI:
 <p align="center">
-  <img src="screenshots/Tasmota/WebUI.jpg" width="100%"><img src="screenshots/Tasmota/Tasmotrol.jpg" width="100%">
+  <img src="screenshots/Tasmota/WebUI.jpg" width="30%"><img src="screenshots/Tasmota/Tasmotrol.jpg" width="30%">
 </p>
