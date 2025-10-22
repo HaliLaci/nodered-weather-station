@@ -65,7 +65,7 @@ Az érzékelők adatai MQTT üzenetként kerülnek továbbításra a Raspberry P
   <img src="screenshots/wemosd1/WeatherStationCircuit.jpg" width="45%">
 </p>
 
-### Tasmota WebUI and Tasmotrol App UI:
+### Tasmota WebUI - Tasmotrol App UI - Node-Red Dashboard:
 <p align="center">
   <img src="screenshots/Tasmota/WebUI.jpg" width="30%"><img src="screenshots/Tasmota/Tasmotrol.jpg" width="30%"><img src="screenshots/NodeRed/NoderedDashboard.jpg" width="30%">
 </p>
